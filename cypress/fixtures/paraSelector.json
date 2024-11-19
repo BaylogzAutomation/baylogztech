@@ -1,0 +1,17 @@
+{
+    "registerButton":"#loginPanel > :nth-child(3) > a",
+    "firstnameField":"#customer.firstName",
+    "lastnameField":"#customer.lastName",
+    "addressField":"#customer.address.street",
+    "cityField":"#customer.address.city",
+    "stateField":"#customer.address.state",
+    "zipcodeField":"#customer.address.zipCode",
+    "phoneField":"#customer.phoneNumber",
+    "ssnField":"#customer.ssn",
+    "usernameField":"[data-test='username']",
+    "passwordField":"[data-test='password']",
+    "loginButton":"[data-test='login-button']",
+    
+
+  }
+  
